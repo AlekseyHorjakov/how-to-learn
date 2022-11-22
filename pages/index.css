@@ -33,10 +33,10 @@
 @import url(../blocks/khan/__book-container/khan__book-container.css);
 @import url(../blocks/khan/__book-pic/khan__book-pic.css);
 @import url(../blocks/khan/__buy-link/khan__buy-link.css);
-@import url(../blocks/section-title/section__title.css);
-@import url(../blocks/section-title/__theme_dark/section__title_theme_dark.css);
-@import url(../blocks/section-subtitle/section__subtitle.css);
-@import url(../blocks/section-subtitle/__theme_dark/section__subtitle_theme_dark.css);
+@import url(../blocks/section-title/section-title.css);
+@import url(../blocks/section-title/__theme_dark/section-title__theme_dark.css);
+@import url(../blocks/section-subtitle/section-subtitle.css);
+@import url(../blocks/section-subtitle/__theme_dark/section-subtitle__theme_dark.css);
 @import url(../blocks/table/table.css);
 @import url(../blocks/table/__cell/table__cell.css);
 @import url(../blocks/table/__heading/table__heading.css);
